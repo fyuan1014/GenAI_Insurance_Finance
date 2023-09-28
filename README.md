@@ -22,7 +22,7 @@ In the results file, I have included some sample results figures/screenshots.
 The requirements.txt file specifies the package versions used in the scripts.
 
 ## References
-BCG (2023). Leading Insurers Are Having a Generative AI Moment. <https://www.bcg.com/publications/2023/why-insurance-leaders-need-to-leverage-gen-ai>, last accessed on Sep 16, 2023.
-BCG (2023). Generative AI in the Finance Function of the Future. <https://www.bcg.com/publications/2023/generative-ai-in-finance-and-accounting>, last accessed on Sep 16, 2023.
-Kuo, K. (2019). Generative synthesis of insurance datasets. arXiv preprint arXiv:1912.02423.
-Xu, L., Skoularidou, M., Cuesta-Infante, A., & Veeramachaneni, K. (2019). Modeling tabular data using conditional gan. Advances in neural information processing systems, 32.
+1. BCG (2023). Leading Insurers Are Having a Generative AI Moment. <https://www.bcg.com/publications/2023/why-insurance-leaders-need-to-leverage-gen-ai>, last accessed on Sep 16, 2023.
+2. BCG (2023). Generative AI in the Finance Function of the Future. <https://www.bcg.com/publications/2023/generative-ai-in-finance-and-accounting>, last accessed on Sep 16, 2023.
+3. Kuo, K. (2019). Generative synthesis of insurance datasets. arXiv preprint arXiv:1912.02423.
+4. Xu, L., Skoularidou, M., Cuesta-Infante, A., & Veeramachaneni, K. (2019). Modeling tabular data using conditional gan. Advances in neural information processing systems, 32.
